@@ -2,7 +2,7 @@
 
 An interactive 3D tribute to Laylow's album *Trinity*: the record floats in a field of green sparkles, follows your cursor and flips over on click, under glitch and scanline effects.
 
-**[Live demo → trinity-exp.netlify.app](https://trinity-exp.netlify.app)**
+**[Live demo → trinity.thibaut-lefrancois.com](https://trinity.thibaut-lefrancois.com)**
 
 ## Features
 
